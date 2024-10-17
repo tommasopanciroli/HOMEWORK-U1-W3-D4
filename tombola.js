@@ -14,7 +14,8 @@ const createNumberCells = function () {
     numberCell.innerText = i
     cell.appendChild(numberCell)
     cellsSection.appendChild(cell)
-    cell
+    cell.classList.add('cell-style')
+  }
 }
 
 createNumberCells()
