@@ -8,12 +8,12 @@
   height: 100px;
   position: relative;
   border-radius: ;
-  /*cursor: pointer;*/
   background-position: 100%;
   border: solid orangered;
   text-align: center;
   background-color: black;
   padding-top: 0.2em;
+  /*cursor: pointer;*/
 }
 
 body {
@@ -28,6 +28,4 @@ header h1 {
 
 #generate-number {
   margin: 2em;
-  
-	
 }
